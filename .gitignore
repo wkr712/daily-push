@@ -1,0 +1,18 @@
+# 保护敏感配置文件
+.claude/settings.local.json
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 锁文件
+*.lock

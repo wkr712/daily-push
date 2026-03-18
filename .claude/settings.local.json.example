@@ -1,0 +1,18 @@
+{
+  "env": {
+    "SMTP_HOST": "smtp.qq.com",
+    "SMTP_PORT": "587",
+    "SMTP_USER": "YOUR_EMAIL@qq.com",
+    "SMTP_PASS": "YOUR_SMTP_AUTH_CODE",
+    "EMAIL_RECIPIENTS": "recipient@example.com",
+    "QWEATHER_API_KEY": "YOUR_QWEATHER_API_KEY",
+    "QWEATHER_API_HOST": "xxxxxx.re.qweatherapi.com",
+    "TIANAPI_KEY": "YOUR_TIANAPI_KEY"
+  },
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(pip:*)"
+    ]
+  }
+}
